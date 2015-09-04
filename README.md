@@ -1,3 +1,6 @@
+Dette er en demoapplikasjon som skriver, leser og watcher config i etcd.
+
+
 1. Start etcd i cmd/powershell/cmder
 
     
